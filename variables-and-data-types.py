@@ -1,6 +1,6 @@
 # Let's start with a long time programming tradition and print "Hello World!" by typing it inside print() function. Replace "type here" with "Hello World!"
 
-print("type here")
+print("Hello World!")
 
 # Now try to assign "Hello World!" to the variable my_text. You can assign "Hello World!" to the variable below on.
 
@@ -134,5 +134,3 @@ print(grocery_list)
 
 bucket_list=
 print(bucket_list)
-git add .
-git commit -m "starting python variables practice"
